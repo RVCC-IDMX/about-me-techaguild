@@ -1,0 +1,30 @@
+body {
+    font-family: "Arima Madurai";
+    background-color: #F5B358;
+    color: #6E9BB8;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: "Gideon Roman";
+    font-size: 40pt;
+}
+
+header {
+    text-align: center;
+}
+
+#hero, footer {
+    color: #87D1FF;
+    border: 2px solid #43B8FF;
+    background-color: #B36F12;
+    text-align: center;
+    padding: 10px;
+}
+
+#hero img {
+    width: 300px;
+}
+
+#bio {
+    text-align: center;
+}
