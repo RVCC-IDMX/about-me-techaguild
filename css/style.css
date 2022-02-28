@@ -25,15 +25,19 @@ header {
     padding: 10px;
 }
 
+/* Hero Section */
+
 #hero img {
     width: 300px;
 }
+
+/* Bio Section */
 
 #bio {
     text-align: center;
 }
 
-
+/* Hobbies Section */
 a {
     text-decoration: none;
 }
@@ -48,4 +52,18 @@ a:visited {
 
 a:hover {
     color: black;
+}
+
+/* Gallery */
+
+#gallery {
+    border: 2px solid #43B8FF;
+}
+
+#gallery img {
+    max-width: 100%;
+}
+
+#gallery figure {
+    text-align: center;
 }
