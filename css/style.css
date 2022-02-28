@@ -6,6 +6,10 @@ body {
 
 h1, h2, h3, h4, h5, h6 {
     font-family: "Gideon Roman";
+    text-align: center;
+}
+
+h1 {
     font-size: 40pt;
 }
 
@@ -27,4 +31,21 @@ header {
 
 #bio {
     text-align: center;
+}
+
+
+a {
+    text-decoration: none;
+}
+
+a:link {
+    color: green;
+}
+
+a:visited {
+    color: white;
+}
+
+a:hover {
+    color: black;
 }
